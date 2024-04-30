@@ -21,6 +21,6 @@ const app = Vue.createApp({
     },
     removeFromCart(){
       this.cart -= 1
-    },
+    }
   }
 })
